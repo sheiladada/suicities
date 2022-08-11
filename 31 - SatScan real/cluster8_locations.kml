@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 8 Locations</name>
+		<Placemark><name>130020</name><visibility>0</visibility><description></description><styleUrl>saida.kml#high-rate-placemark</styleUrl><Point><coordinates>-70.192,-4.372,0</coordinates></Point></Placemark>
+		<Placemark><name>130060</name><visibility>0</visibility><description></description><styleUrl>saida.kml#high-rate-placemark</styleUrl><Point><coordinates>-70.031,-4.383,0</coordinates></Point></Placemark>
+		<Placemark><name>130406</name><visibility>0</visibility><description></description><styleUrl>saida.kml#high-rate-placemark</styleUrl><Point><coordinates>-69.938,-4.253,0</coordinates></Point></Placemark>
+		<Placemark><name>130390</name><visibility>0</visibility><description></description><styleUrl>saida.kml#high-rate-placemark</styleUrl><Point><coordinates>-68.873,-3.378,0</coordinates></Point></Placemark>
+		<Placemark><name>130006</name><visibility>0</visibility><description></description><styleUrl>saida.kml#high-rate-placemark</styleUrl><Point><coordinates>-68.198,-3.364,0</coordinates></Point></Placemark>
+		<Placemark><name>130140</name><visibility>0</visibility><description></description><styleUrl>saida.kml#high-rate-placemark</styleUrl><Point><coordinates>-69.874,-6.66,0</coordinates></Point></Placemark>
+		<Placemark><name>130370</name><visibility>0</visibility><description></description><styleUrl>saida.kml#high-rate-placemark</styleUrl><Point><coordinates>-67.94,-3.102,0</coordinates></Point></Placemark>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 11 Locations</name>
+		<Placemark><name>210170</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.826,-2.747,0</coordinates></Point></Placemark>
+		<Placemark><name>210805</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.533,-2.719,0</coordinates></Point></Placemark>
+		<Placemark><name>211027</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-43.254,-2.5,0</coordinates></Point></Placemark>
+		<Placemark><name>211250</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.274,-2.762,0</coordinates></Point></Placemark>
+		<Placemark><name>211023</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.412,-3.116,0</coordinates></Point></Placemark>
+		<Placemark><name>210500</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-43.461,-2.598,0</coordinates></Point></Placemark>
+		<Placemark><name>210940</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-43.438,-2.51,0</coordinates></Point></Placemark>
+		<Placemark><name>210015</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.112,-2.841,0</coordinates></Point></Placemark>
+		<Placemark><name>211060</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.418,-3.361,0</coordinates></Point></Placemark>
+		<Placemark><name>211260</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-43.404,-3.208,0</coordinates></Point></Placemark>
+		<Placemark><name>210173</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-43.51,-3.155,0</coordinates></Point></Placemark>
+		<Placemark><name>220585</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.504,-3.483,0</coordinates></Point></Placemark>
+		<Placemark><name>211010</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.547,-3.516,0</coordinates></Point></Placemark>
+		<Placemark><name>220545</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.428,-3.478,0</coordinates></Point></Placemark>
+		<Placemark><name>220580</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.37,-3.458,0</coordinates></Point></Placemark>
+		<Placemark><name>210667</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.609,-3.581,0</coordinates></Point></Placemark>
+		<Placemark><name>210630</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.204,-3.396,0</coordinates></Point></Placemark>
+		<Placemark><name>211040</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-43.528,-3.334,0</coordinates></Point></Placemark>
+		<Placemark><name>210640</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-43.111,-3.625,0</coordinates></Point></Placemark>
+		<Placemark><name>220669</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.094,-3.319,0</coordinates></Point></Placemark>
+		<Placemark><name>210090</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-41.903,-2.89,0</coordinates></Point></Placemark>
+		<Placemark><name>210210</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.75,-3.684,0</coordinates></Point></Placemark>
+		<Placemark><name>210080</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-43.116,-3.672,0</coordinates></Point></Placemark>
+		<Placemark><name>220540</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.198,-3.508,0</coordinates></Point></Placemark>
+		<Placemark><name>220610</name><visibility>0</visibility><description></description><styleUrl>saida.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.556,-3.716,0</coordinates></Point></Placemark>
+</Document>
+</kml>
